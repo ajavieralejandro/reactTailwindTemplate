@@ -20,36 +20,28 @@ const Body = () =>{
           className="h-full w-full object-"
         />         
         </section>
-        <section class="row-start-5 row-end-7 col-start-4 col-end-9 bg-gray-200">
+        <section class="row-start-5 row-end-7 col-start-4 col-end-9 ">
             <article class="p-10 flex justify-between items-center h-full">
-                <div class="space-y-5">
-                    <h2 class="text-3xl max-w-xs">Multipurpose Wooden Tool</h2>
-                    <h3 class="text-xl">$24</h3>
-                    <button class="p-2 px-6 bg-blue-500 text-white rounded-md hover:bg-blue-600">Add To Cart</button>
-                </div>
-                <div>
-                    <img class="h-auto w-full ml-10 -mt-5" src="https://www.dropbox.com/s/1fav310i2eqkdz8/tool2.png?dl=1" alt="" />
-                </div>
+            <p class="text-xl">
+Nuestras acciones se guían por la honestidad, el respeto y el compromiso valores que nos identifican en el ámbito teatral.
+</p>
             </article>
         </section>
-        <section class="row-start-1 row-end-4 col-start-9 col-end-13 ">
-        <img
-          src="https://imagedelivery.net/rXQkQjLMcsIgr9J-xeKCWA/697bfc8f-d358-41ed-0ed6-1312abdbb700/Tissue"
-          alt="image 2"
-          className="h-full w-full object-contain"
-        /> 
+        <section class="row-start-1 row-end-4 col-start-9 col-end-13 text-center ">
+       <p class="text-xl">Somos una productora artística independiente dedicada a la difusión de obras teatrales basadas e inspiradas en la vida y la obra literaria de grandes escritores.
+Nos motiva el deseo de lograr  a través del hecho artístico , que el público goce, se emocione y anhele conocerlos aún más.
+</p>
         </section>
         <section class="row-start-4 row-end-7 col-start-9 col-end-13 bg-purple-100">
         <img
-          src="https://imagedelivery.net/rXQkQjLMcsIgr9J-xeKCWA/af9cdbe4-ee7e-4a43-5b2e-6ca079722b00/public"
+          src="https://imagedelivery.net/rXQkQjLMcsIgr9J-xeKCWA/5c566ada-43b2-492d-323b-a29f17296c00/Tissue"
           alt="image 2"
           className="h-full w-full object-cover"
         /> 
+        
         </section>
     </section>
-    <p class="text-sm leading-relaxed text-gray-400 mt-10 text-center">
-        Design Inspiration: <a target="_blank" href="https://dribbble.com/shots/6693601-IxD-Challenge-Day-15">https://dribbble.com/shots/6693601-IxD-Challenge-Day-15</a>
-    </p>
+
 </section>
     )
 }
