@@ -33,7 +33,7 @@ const Body = () =>{
             </article>
         </section>
         <section class="row-start-1 row-end-4 col-start-9 col-end-13 ">
-        <p class="text-md text-center pt-10">
+        <p class="text-xl text-center pt-10 justify-center">
 El espectáculo narra vida y obra de Alfonsina Storni a través de sus poesías.
 Un exquisito ensamble entre poemas y vivencias que nos hacen oír la voz de la poeta más viva que nunca.
 Representa desde su infancia hasta su muerte entrelazando la prosa teatral con sus poemas.

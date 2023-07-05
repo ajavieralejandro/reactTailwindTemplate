@@ -5,6 +5,7 @@ import Body from "./components/Body/body";
 import Body2 from "./components/Body/body2";
 import Team from "./components/Team/team";
 import Contact from "./components/Contact/contact";
+import Gallery from "./components/Gallery/Gallery";
 
 const LandingPage = () => {
   return (
@@ -15,6 +16,7 @@ const LandingPage = () => {
     <Body />
     <Body2 />
     <Team />
+    <Gallery />
     <Contact />
     </div>
     </>
