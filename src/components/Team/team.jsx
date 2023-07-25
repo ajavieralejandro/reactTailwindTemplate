@@ -5,7 +5,7 @@ const Team = () =>{
         <div class="grid pt-10 gap-10 md:grid-cols-2 lg:grid-cols-3">
         <div>
           <div class="relative overflow-hidden transition duration-300 transform rounded-lg shadow-lg lg:hover:-translate-y-2 hover:shadow-2xl">
-            <img alt="team member" class="object-cover w-full h-56 md:h-64 xl:h-80"        src="https://imagedelivery.net/rXQkQjLMcsIgr9J-xeKCWA/1a70fcdc-d84e-4e0e-59ef-78eea3d3b900/Tissue"
+            <img alt="team member" class="object-cover w-full h-56 md:h-80s xl:h-80"        src="https://imagedelivery.net/rXQkQjLMcsIgr9J-xeKCWA/1a70fcdc-d84e-4e0e-59ef-78eea3d3b900/Tissue"
      alt="Person" />
             <div class="absolute inset-0 flex flex-col justify-center px-5 py-4 text-center transition-opacity duration-300 bg-black bg-opacity-75 opacity-0 hover:opacity-100">
               <p class="mb-4 text-xs  text-white whitespace-pre-line	">

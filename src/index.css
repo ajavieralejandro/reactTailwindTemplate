@@ -36,6 +36,6 @@ body {
 @tailwind components;
 @tailwind utilities;
 code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+  font-family: source-code-pro, Menlo, Monaco, Consolas,
     monospace;
 }

@@ -12,8 +12,6 @@ const LandingPage = () => {
     <>
     <Sidebar />
     <div class=" p-4 sm:ml-64 " >
-
-    <Body />
     <Body2 />
     <Team />
     <Gallery />

@@ -13,32 +13,35 @@ const Body = () =>{
      className="h-full w-full object-cover"
    />                
    </section>
-        <section class="row-start-5 row-end-7 col-start-1 col-end-4 bg-purple-300">
-        <img
-          src="https://imagedelivery.net/rXQkQjLMcsIgr9J-xeKCWA/dda4b706-0e0a-498b-4b76-839398ada700/Tissue"
-          alt="image 2"
-          className="h-full w-full object-"
-        />         
-        </section>
-        <section class="row-start-5 row-end-7 col-start-4 col-end-9 ">
-            <article class="p-10 flex justify-center items-center h-full">
-                <div class="space-y-5 text-center">
-                 <p>     ¨Yo soy como la loba</p>
-           <p>quebré con el rebaño</p>
-           <p>y me fui a la montaña</p>
-          <p> fatigada del llano¨
-</p>
-                </div>
-              
+     
+        <section class="row-start-5 row-end-7 col-start-1 col-end-9  ">
+        <article class="mx-auto w-full pb-8 h-full bg-cover bg-center cursor-pointer w-full transform duration-500 hover:-translate-y-1 shadow-2xl rounded-xl ">
+        <p class="m-4 text-md p-2 leading-relaxed text-center">
+
+                Un exquisito ensamble entre poemas y vivencias que nos hacen oír la voz de la poeta más viva que nunca.
+                </p>
+                <p class="m-4 text-md p-2 leading-relaxed text-center">
+                Representa desde su infancia hasta su muerte entrelazando la prosa teatral con sus poemas.
+                </p>
+                <p class="m-4 text-md p-2 leading-relaxed text-center">
+                En este unipersonal la actriz, Silvia Pereira nos hará vivir y emocionar al conocer a una Alfonsina, poeta, mujer, madre, amante, comprometida con su tiempo.
+                </p>
             </article>
+
         </section>
         <section class="row-start-1 row-end-4 col-start-9 col-end-13 ">
-        <p class="text-xl text-center pt-10 justify-center">
-El espectáculo narra vida y obra de Alfonsina Storni a través de sus poesías.
-Un exquisito ensamble entre poemas y vivencias que nos hacen oír la voz de la poeta más viva que nunca.
-Representa desde su infancia hasta su muerte entrelazando la prosa teatral con sus poemas.
-En este unipersonal la actriz, Silvia Pereira nos hará vivir y emocionar al conocer a una Alfonsina, poeta, mujer, madre, amante, comprometida con su tiempo.
-</p>
+        <article class="mx-auto max-w-sm pb-8 h-full bg-cover bg-center cursor-pointer transform duration-500  rounded-xl">
+                <h2 class="text-center text-3xl mt-8 font-bold min-h-18 px-12">
+                ALFONSINA, DISPUESTA A TODO
+                </h2>
+                <p class="m-4 text-lg p-4 leading-relaxed text-center">
+                Espectáculo teatral poético  a cargo de Silvia Pereira.
+                </p>
+                <p class="m-4 text-lg p-4 leading-relaxed text-center">
+                El espectáculo narra vida y obra de Alfonsina Storni a través de sus poesías.
+                </p>
+            </article>
+
      
         </section>
         <section class="row-start-4 row-end-7 col-start-9 col-end-13 bg-purple-100">
